@@ -1,2 +1,2 @@
 /*console.log('Loaded!');*/
-console.out('hello');
+console.print('hello');
