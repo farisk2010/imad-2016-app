@@ -1,1 +1,2 @@
-console.log('Loaded!');
+/console.log('Loaded!');
+console.out('hello');
